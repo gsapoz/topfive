@@ -1,0 +1,10 @@
+<?php
+
+class League 
+{
+    public $name;
+    public $image = "";
+    public $clubs = [];
+}
+
+?>
