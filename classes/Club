@@ -1,0 +1,10 @@
+<?php
+
+class Club 
+{
+    public $name;
+    public $image = "https://www.fotmob.com/_next/static/media/player_fallback.9cac7bea.png";
+    public $players = [];
+}
+
+?>
