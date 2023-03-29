@@ -4,7 +4,10 @@ class Player
 {
     public $name;
     public $image = "https://www.fotmob.com/_next/static/media/player_fallback.9cac7bea.png";
+    public $age;
     public $position;
+    public $height;
+    public $weight;
     public $nationality;
 }
 

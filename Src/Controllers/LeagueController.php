@@ -1,5 +1,7 @@
 <?php
 
+
+
 function getLeagues($array) {
     //returns a threee dimensional array of Leagues, Clubs, and Players
     $leagues = [ 
@@ -59,8 +61,5 @@ function getClubs($league) {
     return $clubs;
 }
 
-function getPlayers($club) {
-    //TO-DO: Figure out an alternative domain for fetching player names, given a club. 
-}
 
 ?>
